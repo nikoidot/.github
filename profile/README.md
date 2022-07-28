@@ -4,4 +4,4 @@ One. is a team focused in develop open source hardware/software, we like to crea
 
 ## Projects
 
-Coming soon...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onedot-iot&theme=midnight-purple&repo=.github)](https://github.com/anuraghazra/github-readme-stats)
