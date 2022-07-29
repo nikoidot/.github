@@ -5,3 +5,8 @@ Nikoi is a team focused in develop open source hardware/software, we like to cre
 ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikoi-code&theme=midnight-purple&repo=.github)](https://github.com/nikoi-code/.github)
+
+## Donate
+
+[![coffee](https://img.shields.io/badge/Buy_Us_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://example.com)
+[![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://example.com)
