@@ -4,7 +4,7 @@ Nikoi is a team focused in develop open source hardware/software, we like to cre
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikoi-code&theme=midnight-purple&repo=.github)](https://github.com/nikoi-code/.github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikoidot&theme=midnight-purple&repo=.github)](https://github.com/nikoidot/.github)
 
 ## Donate
 
