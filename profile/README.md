@@ -26,7 +26,7 @@ Each code is released under its own license. See `LICENSE` in the wanted reposit
 
 ## Members
 
-| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>CEO</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>JS Programmer</sub>](https://github.com/videmelo) |
+| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) |
 | :---: | :---: |
 
 ## Donate
