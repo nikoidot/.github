@@ -1,6 +1,8 @@
-# Nikoi.
+# nikoi.
 
 Nikoi is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence things, softwares for daily use, internet of things, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community.
+
+#thefutureisopensource #nikoidot
 
 ## Projects
 
@@ -24,7 +26,7 @@ Don't forget to give the project a star!
 
 Each code is released under its own license. See `LICENSE` in the wanted repository for more information.
 
-## Members
+## Team nikoi.
 
 | [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) |
 | :---: | :---: |
