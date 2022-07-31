@@ -29,10 +29,10 @@ Each code is released under its own license. See `LICENSE` in the wanted reposit
 
 ## Team nikoi.
 
-| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) |
-| :---: | :---: |
+| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) | [<img src="https://github.com/imgabiru.png?size=115" width=115><br><sub>@ImGabiru</sub>](https://github.com/imgabiru) | [<img src="https://github.com/4RTUrrrr.png?size=115" width=115><br><sub>@4RTUrrrr</sub>](https://github.com/4RTUrrrr) |
+| :---: | :---: | :---: | :---: |
 
 ## Donate
 
-[![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://example.com)
 [![coffee](https://img.shields.io/badge/Buy_Us_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nikoidot)
+[![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://example.com)
