@@ -34,5 +34,5 @@ Each code is released under its own license. See `LICENSE` in the wanted reposit
 
 ## Donate
 
-[![coffee](https://img.shields.io/badge/Buy_Us_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://example.com)
 [![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://example.com)
+[![coffee](https://img.shields.io/badge/Buy_Us_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nikoidot)
