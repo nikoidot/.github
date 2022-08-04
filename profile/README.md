@@ -29,7 +29,7 @@ Each code is released under its own license. See `LICENSE` in the wanted reposit
 
 ## Team nikoi.
 
-| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) | [<img src="https://github.com/imgabiru.png?size=115" width=115><br><sub>@ImGabiru</sub>](https://github.com/imgabiru) | [<img src="https://github.com/4RTUrrrr.png?size=115" width=115><br><sub>@4RTUrrrr</sub>](https://github.com/4RTUrrrr) |
+| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) | [<img src="https://github.com/vitor37137.png?size=115" width=115><br><sub>@vitor37137</sub>](https://github.com/vitor37137) | [<img src="https://github.com/imgabiru.png?size=115" width=115><br><sub>@ImGabiru</sub>](https://github.com/imgabiru) |
 | :---: | :---: | :---: | :---: |
 
 ## Donate
