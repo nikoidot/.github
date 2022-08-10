@@ -1,6 +1,6 @@
 # nikoi.
 
-Nikoi. is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. Oh yeah and we are also the creators of <a href="https://github.com/key-js">@KeyJS</a>, <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/nowlstream">@Nowl</a> and <a href="https://github.com/cowlent">@Cowlent</a>.
+Nikoi. is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. Oh yeah and we are also the creators of <a href="https://github.com/key-js">@KeyJS</a>, <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/nowlstream">@Nowl</a> and <a href="https://github.com/tework">@Tework</a>.
 
 Making the future open source.
 #thefutureisopensource #nikoidot
