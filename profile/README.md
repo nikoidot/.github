@@ -1,14 +1,19 @@
-# nikoi.
+# nikoidot
 
-Nikoi. is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. Oh yeah and we are also the creators of <a href="https://github.com/key-js">@KeyJS</a>, <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/nowlstream">@Nowl</a> and <a href="https://github.com/tework">@Tework</a>.
+Nikoidot is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. We are creating amazing things like <a href="https://github.com/key-js">@KeyJS</a>, <a href="https://github.com/nowlstream">@Nowl</a>, <a href="https://github.com/open-dices">@OpenDices</a>, <a href="https://github.com/tework">@Tework</a>, and planning incredible projects like <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/licensea">@Licensea</a>, <a href="https://github.com/nocon-vr">@NoconVR</a>, <a href="https://github.com/data-sd">@DataSD</a>, <a href="https://github.com/orgaze">@Orgaze</a>, <a href="https://github.com/codemalist">@Codemalist</a>, and so much more.
 
 Making the future open source.
 #thefutureisopensource #nikoidot
 
-## Projects
+## Indev Projects
 
-| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)| [<img src="https://github.com/key-js.png?size=115" width=115><br><sub>KeyJS</sub>](https://github.com/key-js)| [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/coush-app.png?size=115" width=115><br><sub>Coush</sub>](https://github.com/coush-app)|
+| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)| [<img src="https://github.com/key-js.png?size=115" width=115><br><sub>KeyJS</sub>](https://github.com/key-js)| [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/open-dices.png?size=115" width=115><br><sub>OpenDices</sub>](https://github.com/open-dices)|
 | :---: | :---: | :---: | :---: |
+
+## Planned Projects
+
+| [<img src="https://github.com/coush-app.png?size=115" width=115><br><sub>Coush</sub>](https://github.com/coush-app)| [<img src="https://github.com/licensea.png?size=115" width=115><br><sub>Licensea</sub>](https://github.com/licensea)| [<img src="https://github.com/nocon-vr.png?size=115" width=115><br><sub>NoconVR</sub>](https://github.com/nocon-vr)| [<img src="https://github.com/data-sd.png?size=115" width=115><br><sub>DataSD</sub>](https://github.com/data-sd)| [<img src="https://github.com/orgaze.png?size=115" width=115><br><sub>Orgaze</sub>](https://github.com/orgaze)| [<img src="https://github.com/codemalist.png?size=115" width=115><br><sub>Codemalist</sub>](https://github.com/codemalist)|
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Contributing
 
@@ -27,7 +32,7 @@ Don't forget to give the project a star!
 
 Each code is released under its own license. See `LICENSE` in the wanted repository for more information.
 
-## Team nikoi.
+## Team nikoidot
 
 | [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/videmelo.png?size=115" width=115><br><sub>@VideMelo</sub>](https://github.com/videmelo) | [<img src="https://github.com/vitor37137.png?size=115" width=115><br><sub>@vitor37137</sub>](https://github.com/vitor37137) |
 | :---: | :---: | :---: |
