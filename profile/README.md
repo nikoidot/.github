@@ -7,7 +7,7 @@ Making the future open source.
 
 ## Indev Projects
 
-| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)| [<img src="https://github.com/key-js.png?size=115" width=115><br><sub>KeyJS</sub>](https://github.com/key-js)| [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/open-dices.png?size=115" width=115><br><sub>OpenDices</sub>](https://github.com/open-dices)|
+| [<img src="https://github.com/key-js.png?size=115" width=115><br><sub>KeyJS</sub>](https://github.com/key-js)|  [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/open-dices.png?size=115" width=115><br><sub>OpenDices</sub>](https://github.com/open-dices)| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)|
 | :---: | :---: | :---: | :---: |
 
 ## Planned Projects
