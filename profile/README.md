@@ -1,13 +1,13 @@
 # nikoidot
 
-Nikoidot is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. We are creating amazing things like <a href="https://github.com/key-js">@KeyJS</a>, <a href="https://github.com/nowlstream">@Nowl</a>, <a href="https://github.com/open-dices">@OpenDices</a>, <a href="https://github.com/tework">@Tework</a>, and planning incredible projects like <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/licensea">@Licensea</a>, <a href="https://github.com/nocon-vr">@NoconVR</a>, <a href="https://github.com/data-sd">@DataSD</a>, <a href="https://github.com/orgaze">@Orgaze</a>, <a href="https://github.com/codemalist">@Codemalist</a>, and so much more.
+Nikoidot is a team focused in develop open source hardware/software, we like to create things like javascript libraries, artificial intligence, softwares, internet of things, virtual reality, future gadgets, modifications, inprovements and much more. We are proud of work with the community for the community. We are creating amazing things like <a href="https://github.com/inputify">@Inputify</a>, <a href="https://github.com/nowlstream">@Nowl</a>, <a href="https://github.com/open-dices">@OpenDices</a>, <a href="https://github.com/tework">@Tework</a>, and planning incredible projects like <a href="https://github.com/coush-app">@Coush</a>, <a href="https://github.com/licensea">@Licensea</a>, <a href="https://github.com/nocon-vr">@NoconVR</a>, <a href="https://github.com/data-sd">@DataSD</a>, <a href="https://github.com/orgaze">@Orgaze</a>, <a href="https://github.com/codemalist">@Codemalist</a>, and so much more.
 
 Making the future open source.
 #thefutureisopensource #nikoidot
 
 ## Indev Projects
 
-| [<img src="https://github.com/key-js.png?size=115" width=115><br><sub>KeyJS</sub>](https://github.com/key-js)|  [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/open-dices.png?size=115" width=115><br><sub>OpenDices</sub>](https://github.com/open-dices)| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)|
+| [<img src="https://github.com/inputify.png?size=115" width=115><br><sub>Inputify</sub>](https://github.com/inputify)|  [<img src="https://github.com/nowlstream.png?size=115" width=115><br><sub>Nowl</sub>](https://github.com/nowlstream)| [<img src="https://github.com/open-dices.png?size=115" width=115><br><sub>OpenDices</sub>](https://github.com/open-dices)| [<img src="https://github.com/tework.png?size=115" width=115><br><sub>Tework</sub>](https://github.com/tework)|
 | :---: | :---: | :---: | :---: |
 
 ## Planned Projects
