@@ -2,9 +2,7 @@
 
 A startup that develop startups.
 
-nikoidot is a team focused in develop open source hardware/software. We love to create solutions and experiences. We are proud of work with the community for the community, creating amazing things. We are small, but we are planning big projects.
-
-We gonna keep creating projects and changing the way people and communities work, stay working hard everyday to make our experiences.
+Nikoidot is a startup made up of passionate developers who focus on creating solutions and experiences. We are a small team with big plans, and our mission is to make improvements in the name of science, not money. We are proud to work with the community and engage with them. While we aim to create cheap and open-source projects, we do need to make money to maintain ourselves. However, one of our principles is "you don't have to pay for things that should be MVP."
 
 <a href="https://nikoi.tech">Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
