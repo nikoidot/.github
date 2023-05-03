@@ -1,6 +1,4 @@
-<img src="nikoidot-white.svg" width="200px"/>
-
-<h1>nikoidot</h1>
+<img src="nikoidot-white.svg" width="170px"/>
 
 A startup that develop startups.
 
