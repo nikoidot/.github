@@ -1,4 +1,4 @@
-<img src="nikoidot-banner.png"/>
+<img src="nikoidot-white.svg" width="200px"/>
 
 <h1>nikoidot</h1>
 
