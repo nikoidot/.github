@@ -9,4 +9,3 @@ Nikoidot is a startup made up of passionate developers who focus on creating sol
 <a href="https://nikoi.tech/projects">Projects</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/pCXEJPzGF8">Community</a>
-<hr/>
