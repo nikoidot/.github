@@ -1,9 +1,8 @@
 <pre align="center">
-    <br />
-    <b>A startup that develop startups</b>
-    <b>Nikoidot is a startup of passionate developers who focus on creating solutions and experiences.</b>
-    <b>a small team with big plans and the mission of making improvements in the name of science,</b>
-    <b>proudly working with the community and engaging with them since 2022.</b>
+    <br/>
+    <b>a startup that develops startups.</b>
+    <b>nikoidot is a team of engineers creating startups and stuff.</b>
+    <b>proudly working with the open-source community since 2022.</b>
     <a target="_blank" href="https://nikoi.tech">meet nikoidot</a>
-    <br />
+    <br/>
 </pre>
