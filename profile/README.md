@@ -1,4 +1,4 @@
-<pre align="center">
+<pre>
     <br/>
     <b>a startup that develops startups.</b>
     <b>nikoidot is a team of engineers creating startups and stuff.</b>
